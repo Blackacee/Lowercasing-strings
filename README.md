@@ -1,2 +1,3 @@
 # Lowercasing-strings
-Setting JS strings to lower case
+
+console.log('QWERTY'.toLowerCase()); // 'qwerty'
